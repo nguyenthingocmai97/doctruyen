@@ -1,0 +1,208 @@
+{
+    
+        "theloai" :
+        [
+            {
+                "id":1,
+                "tentheloai":"Truyện ngôn tình",
+                "images":[
+                   {
+                       "url":"https://sachvui.com/cover/2018/choc-tuc-vo-yeu-mua-mot-tang-mot.jpg"
+                   }
+                ]
+            },
+            {
+                "id":2,
+                "tentheloai":"Truyện trinh thám",
+                "images":[
+                   {
+                       "url":"https://sachvui.com/cover2/2019/vu-bi-an-quyen-nhat-ky-mat-trang.jpg"
+                   }
+                ]
+            },
+            {
+                "id":3,
+                "tentheloai":"Truyện cười dân gian",
+                "images":[
+                   {
+                       "url":"https://sachvui.com/cover2/2015/truyen-cuoi-song-ngu-anh-viet.jpg"
+                   }
+                ]
+            },
+            {
+                "id":4,
+                "tentheloai":"Truyện kinh dị",
+                "images":[
+                   {
+                       "url":"https://sachvui.com/cover2/2019/truyen-ma-12-cung-hoang-dao.jpg"
+                   }
+                ]
+            },
+            {
+                "id":5,
+                "tentheloai":"Truyện cổ tích",
+                "images":[
+                   {
+                       "url":"https://sachvui.com/cover2/2016/365-chuyen-ke-hang-dem-mua-thu.jpg"
+                   }
+                ]
+            },
+            {
+                "id":6,
+                "tentheloai":"Truyện phiêu lưu",
+                "images":[
+                   {
+                       "url":"https://sachvui.com/cover2/2015/Nhung-cuoc-phieu-luu-cua-Huckleberry-Finn.jpg"
+                   }
+                ]
+            }
+    
+        ],
+    "caccuontruyen":[
+        {
+            "id":1,
+            "tentruyen":"Chào Buổi Sáng: Ông Xã Cool Ngầu",
+            "images":[
+                {
+                    "url":"https://sachvui.com/cover2/2018/chao-buoi-sang-ong-xa-cool-ngau-full.jpg"
+                }
+             ],
+            "category":1
+        },
+        {
+            "id":2,
+            "tentruyen":"Xem Em Thu Phục Anh Như Thế Nào",
+            "images":[
+                {
+                    "url":"https://sachvui.com/cover2/2019/xem-em-thu-phuc-anh-nhu-the-nao.jpg"
+                }
+             ],
+            "category":1
+        },
+        {
+            "id":3,
+            "tentruyen":"Mua Vợ",
+            "images":[
+                {
+                    "url":"https://sachvui.com/cover2/2019/mua-vo.jpg"
+                }
+             ],
+            "category":1
+        },
+        {
+            "id":4,
+            "tentruyen":"Cưới Vợ Trước Về",
+            "images":[
+                {
+                    "url":"https://sachvui.com/cover2/2019/cuoi-vo-truoc-ve.jpg"
+                }
+             ],
+            "category":1
+        },
+        {
+            "id":5,
+            "tentruyen":"Hôn Nhân Tàn Khốc",
+            "images":[
+                {
+                    "url":"https://sachvui.com/cover2/2019/hon-nhan-tan-khoc.jpg"
+                }
+             ],
+            "category":1
+        },
+        {
+            "id":6,
+            "tentruyen":"Án Mạng Ðêm Cuối Năm",
+            "images":[
+                {
+                    "url":"https://sachvui.com/cover2/2019/an-mang-em-cuoi-nam.jpg"
+                }
+             ],
+            "category":2
+        },
+        {
+            "id":7,
+            "tentruyen":"Vụ Bí Ẩn: Bộ Phim Khó Quay",
+            "images":[
+                {
+                    "url":"https://sachvui.com/cover2/2019/vu-bi-an-bo-phim-kho-quay.jpg"
+                }
+             ],
+            "category":2
+        },
+        {
+            "id":8,
+            "tentruyen":"Vụ Bí Ẩn: Xác Ướp Thì Thầm",
+            "images":[
+                {
+                    "url":"https://sachvui.com/cover2/2019/vu-bi-an-xac-uop-thi-tham.jpg"
+                }
+             ],
+            "category":2
+        },
+        {
+            "id":9,
+            "tentruyen":"Vụ Bí Ẩn: Quyển Nhật Ký Mất Trang",
+            "images":[
+                {
+                    "url":"https://sachvui.com/cover2/2019/vu-bi-an-quyen-nhat-ky-mat-trang.jpg"
+                }
+             ],
+            "category":2
+        },
+        {
+            "id":10,
+            "tentruyen":"Trạng Quỳnh",
+            "images":[
+                {
+                    "url":"https://sachvui.com/cover2/2015/Trang-Quynh.jpg"
+                }
+             ],
+            "category":3
+        },
+        {
+            "id":11,
+            "tentruyen":"Trạng Lợn",
+            "images":[
+                {
+                    "url":"https://sachvui.com/cover2/2015/Trang-Lon.jpg"
+                }
+             ],
+            "category":3
+        },
+        {
+            "id":12,
+            "tentruyen":"Ba Giai - Tú Xuất",
+            "images":[
+                {
+                    "url":"https://sachvui.com/cover2/2015/Ba-Giai---Tu-Xuat.jpg"
+                }
+             ],
+            "category":3
+        },
+        {
+            "id":13,
+            "tentruyen":"Bố Là Bà Giúp Việc",
+            "images":[
+                {
+                    "url":"https://sachvui.com/cover2/2016/bo-la-ba-giup-viec.jpg"
+                }
+             ],
+            "category":3
+        }
+             
+    ],
+    "chitiettruyen":[
+        {
+            "id":1,
+            "noidung":"Trong căn phòng tối đen như mực với vách tường loang lổ, trên sàn nhà xi măng lạnh lẽo nước tiêu vung vãi khắp nơi. Trong đông nước bản ở chân tường rải rác mây hộp mì ăn liên, vỏ chai nước suôi cùng rác rưởi, bôc ra mùi chua lòm.Ở giữa bãi nước bẩn như thế có một thằng bé đang ngồi, phần quần dưới mông đều ướt hêt, không phân biệt được là dính nước bản hay là cứt đái. Một người đàn ông khuất sáng đi tới, mặt mũi gã ta chỉ có những đường nét chung chung không rõ ràng, còn lại là một mảnh đen kịt, chỉ thây gã ta đưa tay cởi thăt luring ra. Tới rồi, lại tới rồi, mỗi lần như thế bọn chúng đều đi tiểu vào mặt thằng bé. Thằng bé nhắm chặt hai mắt và môi lại, chuẩn bị nghênh đón mùi khai thổi quen thuộc...Sợ Chiêu Dương đột nhiên kinh hoàng ngồi bật dậy từ trên giường, dồn dập thở dôc.Bốn giờ sáng, ánh sáng mờ mờ bên ngoài xuyên qua lớp rèm cửa sổ đã có thể thấy rõ tảt cả bên trong căn phòng ngủ.Lại gặp ác mộng rồi.Hô hấp của Sở Chiêu Dương dần ổn định trở lại, anh vùi đầu vào đôi bàn tay rồi hung hăng quẹt hêt mô hôi lạnh trên mặt đi.Sở Chiêu Dương đã không ngủ được nữa, anh đứng dậy đi vào phòng tắm.Nước chảy dọc theo định đầu men theo da thịt anh xuống phía dưới rồi uốn lượn trên bộ ngực và cơ bụng cường tráng.Anh dùng hai tay lau nước trên mặt đi và gạt cơn ác mộng vừa rồi ra khỏi tâm trí mình.Lúc anh bảy tuổi từng bị bắt cóc, đoạn ký ức tối tăm kia đã trở thành cơn ác mộng luôn bám theo anh hăng đêm.Thời gian đầu đêm nào anh cũng gặp ác mộng cả đêm, mất ngủ, trầm cảm, lúc gặp bác sĩ tâm lý cũng không nói chuyện.Bây giờ thì khá hơn chút, mỗi lần ác mộng đều rất ngắn và ở trong phạm vi anh có thể chịu được, chỉ là giấc ngủ vẫn không được yên, đường như nó đã trở thành thói quen.Bảy giờ sáng, sau khi thu dọn ổn thoả, Sở Chiêu Dương lái xe đến công ty.Lái chiếc SUV đen đậu vào bãi đỗ xe ở dưới công ty xong, Sở Chiêu Dương đang đi về phía cửa công ty thì đột nhiên phía trước có một cô gái lao thăng vào lòng anh.Sở Chiêu Dương nghĩ, cô gái này có phải quá nhiệt tình hay không. Anh nhìn thì cũng đẹp trại và ưu tú, nhưng lân đầu tiên gặp đã ôm ôm âp âp như thẻ có phải là không hay lăm không? Con gái cũng nên dè dặt chút chứ.Trong lòng nghĩ như vậy, nhưng hai chân của ạnh chàng lại giống như đóng đinh ở trên mặt đất. Cô gái vừa xông tới, cả người côây giông như đều được tăm trong ánh mặt trời, mang theo hơi thở của năng mới.",
+            "category":1
+        },
+        {
+            "id":2,
+            "noidung":"Có một kiểu con gái thế này, không khoe khoang, không thích tranh giành, không rỗng tuếch, cũng không xốc nổi, cho dù sinh mệnh đi đến hồi suy kiệt, cũng muốn từ từ già đi trong sự thanh cao.Cô chính là con gái lớn của nhà Âu Dương, Âu Dương Vân.Bất luận là trong thời kì phong kiến xưa cũ hay trong thời thái bình như hiện tại, con trai trưởng và con gái lớn trong nhà luôn được cưng chiều yêu thương. Nhưng nhà Âu Dương là một ngoại lệ, chỉ bởi vì con gái lớn của nhà họ là con riêng, nói một cách khó nghe hơn, là đứa con mà năm đó Âu Dương Trường Phong phản bội vợ dan díu cùng một vũ nữ sinh ra. Từ ngày hôm qua, cả thành phố B đã sôi lên sùng sục và truyền tai nhau một tin tức bùng nổ, gia đình Nam Cung siêu giàu của thành phố này lại ly hôn cô con dâu thứ sáu rồi. Vì thế bà Nam Cung lên chùa thắp hương, bốc quẻ, cầu xin thần linh hóa giải kiếp nạn này, làm sao mới có thể ngăn chặn những bi kịch tương tự xảy ra lần nữa. Trọng điểm nằm ở chỗ này đây, cao tăng bốc quẻ cho bà Nam Cung đã phán rằng: Chỉ có người mang họ kép kết hôn cùng người mang họ kép mới có thể ngăn được bi kịch tái diễn hết lần này đến lần khác. Thành phố B không phải thành phố nhỏ tầm thường. Nơi đây kinh tế phát triển, nhân khẩu đa dạng, những người mang họ kép tất nhiên không đến mức chỉ đếm được trên đầu ngón tay. Bà Nam Cung nghe cao tăng phán vậy mà rầu rĩ, bao nhiêu gia đình mang họ kép như thế, rốt cuộc con gái cưng nhà nào mới là người phù hợp làm con dâu nhà Nam Cung đây?",
+            "category":3
+        }
+        
+    ]
+   
+}
